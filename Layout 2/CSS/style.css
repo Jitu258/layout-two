@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Banner{
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+    margin: 0 50px;
+    overflow: hidden;
+}
+.Banner h1{
+    color: rgb(0, 0, 252);
+    padding-top: 30px;
+
+
+}
+article{
+    margin: 0 50px;
+    overflow: hidden;
+}
+
+  
+   
+
+.left{
+    background-color: hotpink;
+    height: 400px;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+.left h1{
+    color: white;
+    padding: 80px;
+    font-size: 50px;
+
+
+}
+.center{
+    background-color: indigo;
+    height: 400px;
+    text-align: center;
+    float: left;
+    width: 60%;
+
+}
+.center h1{
+    color: whitesmoke;
+    padding: 80px;
+    font-size: 50px;
+}
+.right{
+    background-color: mediumpurple;
+    height: 400px;
+    width: 20%;
+    text-align: center;
+    float:left;
+}
+.right h1{
+    color: whitesmoke;
+    padding: 80px;
+    font-size: 50px;
+}
+.present{
+    background-color: turquoise;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+
+}
+.present{
+    margin: 0 50px;
+    overflow: hidden;
+}
+.present h1{
+    color: whitesmoke;
+    font-size: 80px;
+    padding: 80px;
+}
+.footer{
+    background-color: yellowgreen;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.footer{
+    margin: 0 50px;
+    color: white;
+    font-size: 20px;
+    padding: 30px;
+}
